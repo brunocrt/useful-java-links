@@ -1128,6 +1128,7 @@ Teamware, ClearCase, Perforce, Monotone and Bazaar. License: [CDDL 1.0](http://o
 1.  [New Relic](http://newrelic.com/) - Commercial performance monitor. **License: proprietary** ![proprietary license](https://github.com/Vedenin/useful-java-links/blob/master/img/proprietary-license.png?raw=true)
 1.  [SPM](https://sematext.com/spm/) - Commercial performance monitor with distributing transaction tracing for JVM apps.  **License: proprietary**![proprietary license](https://github.com/Vedenin/useful-java-links/blob/master/img/proprietary-license.png?raw=true)
 1.  [OverOps](https://www.overops.com/) - Root cause automation in production.  **License: proprietary** ![proprietary license](https://github.com/Vedenin/useful-java-links/blob/master/img/proprietary-license.png?raw=true)
+1.  [Glowroot](https://glowroot.org/) - Open source Java APM. License: [Apache 2](http://www.apache.org/licenses/LICENSE-2.0). ![business friendly license](https://github.com/Vedenin/useful-java-links/blob/master/img/business-friendly.png?raw=true)
 
 #### 6. Redefinition of classes at runtime
 [Up](#useful-java-links)
